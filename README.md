@@ -42,10 +42,10 @@ Follow the instructions given in the [installation file](installation.pdf)!
 
 <small>
 
-**Using Binder:** _You may [launch Bronze in the cloud with binder](https://mybinder.org/v2/gl/qworld%2Fbronze-qiskit/HEAD?urlpath=lab/tree/START.ipynb) but **please be aware of that**_ 
+**Using Binder:** _You may [launch Bronze in the cloud with binder](https://mybinder.org/v2/gl/qworld%2Fbronze-qiskit/HEAD?urlpath=lab/tree/content.ipynb) but **please be aware of that**_ 
 - _each time a new session is created, which takes some time to be initiated, and all changes are lost when ending the session; and,_
 - _the session might be terminated if a new tab is not opened within 10 minutes._
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/qworld%2Fbronze-qiskit/HEAD?urlpath=lab/tree/START.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/qworld%2Fbronze-qiskit/HEAD?urlpath=lab/tree/content.ipynb)
 </small>
 
 ## License
@@ -90,12 +90,13 @@ We thank Adam Glos (QWorld & QPoland) for his comments on Bronze 2018.
 
 ### Bronze 2018
 
-We thank to Katrina Kizenbaha from Riga TechGirls for her revisions on our notebooks on python.
+We thank Katrina Kizenbaha from Riga TechGirls for her revisions on our notebooks on python.
 
-We thank to Martins Kalis (QLatvia) for his technical comments on python, qiskit, and our notebooks.
+We thank Martins Kalis (QLatvia) for his technical comments on python, qiskit, and our notebooks.
 
-We thank to Maksims Dimitrijevs (QLatvia) for his careful reading and corrections on our notebooks.
+We thank Maksims Dimitrijevs (QLatvia) for his careful reading and corrections on our notebooks.
 
-We thank to QLatvia's first members Martins Kalis, Maksims Dimitrijevs, Aleksejs Naumovs, Andis Draguns, and Matiss Apinis for their help and support.
+We thank QLatvia's first members Martins Kalis, Maksims Dimitrijevs, Aleksejs Naumovs, Andis Draguns, and Matiss Apinis for their help and support.
 
-We thank to the students of [Faculty of Computing](https://www.df.lu.lv) (University of Latvia) attending quantum programming's meetings on each Friday (Fall 2018) for their comments while working with our notebooks.
+We thank the students of [Faculty of Computing](https://www.df.lu.lv) (University of Latvia) attending the quantum programming's meetings on each Friday (Fall 2018) for their comments while working with our notebooks.
+
